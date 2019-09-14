@@ -6,3 +6,5 @@
 
 Hi, in this repository we put a whitepaper update.
 Good read
+
+If you want you can read the [wiki edition](https://github.com/CryptoHideCoin/WhitePaper/wiki) 

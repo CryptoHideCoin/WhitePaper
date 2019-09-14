@@ -2,7 +2,7 @@
 
 # Crypto Hide Coin Decentralized Trustless Network
 
-# H1 Whitepaper
+# Whitepaper
 
 Hi, in this repository we put a whitepaper update.
 Good read
